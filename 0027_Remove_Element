@@ -1,4 +1,4 @@
-# Time Complexity : O(n) -->(Using of one loop as itself)
+ # Time Complexity : O(n) -->(Using of one loop as itself)
 # Space complexity : O(1) -->(As no extra array or list is created)
 
 ```python
