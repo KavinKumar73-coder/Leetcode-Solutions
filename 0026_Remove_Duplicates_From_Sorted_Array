@@ -3,6 +3,7 @@
 # Space Complexity: O(1)
 
 ```python
+
 class Solution(object):
     def removeDuplicates(self, nums):
         if len(nums)==0:
