@@ -1,0 +1,14 @@
+# Time Complexity : O(n) -->(Using of one loop as itself)
+# Space complexity : O(1) -->(As no extra array or list is created)
+
+```python
+
+class Solution(object):
+    def removeElement(self, nums, val):
+        i=k=0
+        while i<len(nums):
+            if val!=nums[i]:
+                nums[k]=nums[i]
+                k+=1
+            i+=1
+        return k
