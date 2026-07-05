@@ -8,5 +8,5 @@ class Solution(object):
                   
                   
                   
-#time complexity :O(n2)
-#space complextiy :O(1)
+# time complexity :O(n2)
+# space complextiy :O(1)
