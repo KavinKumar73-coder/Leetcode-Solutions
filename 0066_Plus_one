@@ -1,0 +1,16 @@
+# Time Complexity : O(n) (--Since using the seperate loops and no nested loops)
+
+# Space COmplexity : O(n) (--Using extra list--)
+
+```python
+
+class Solution(object):
+    def plusOne(self, digits):
+        num=0
+        for i in digits:
+            num=num*10+i
+        num=num+1
+        lst=[]
+        for i in str(num):
+            lst.append(int(i))
+        return lst
