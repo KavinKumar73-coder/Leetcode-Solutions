@@ -1,0 +1,18 @@
+#Approach : Boyer-Moore Voting Algorithm
+#Time Complexity : O(n)
+#Space Complexity : O(1)
+
+```python
+
+class Solution(object):
+    def majorityElement(self, nums):
+        a=0   #count
+        b=0   #the maximum occuring element
+        for i in nums:
+            if a==0:
+                b=i
+            if b==i:   #if same element present it increase count 
+                a+=1
+            else:
+                a-=1    #it decrease the count
+        return b
