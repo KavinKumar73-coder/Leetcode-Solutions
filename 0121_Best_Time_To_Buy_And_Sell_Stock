@@ -1,0 +1,15 @@
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+```python
+class Solution(object):
+    def maxProfit(self, prices):
+        buyprice=prices[0]
+        max_profit=0
+        for i in prices:      #i->current price to sell
+            if buyprice>i:
+                buyprice=i
+            else:
+                profit=i - buyprice
+                max_profit=max(profit,max_profit)
+        return max_profit
