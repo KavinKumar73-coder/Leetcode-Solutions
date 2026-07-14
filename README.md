@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 14 | 13 | 1 | 0 |
+| 12 | 11 | 1 | 0 |
 
 ---
 
