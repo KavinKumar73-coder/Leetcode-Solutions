@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 12 | 11 | 1 | 0 |
+| 13 | 12 | 1 | 0 |
 
 ---
 
@@ -49,6 +49,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 283 | Move Zeroes | Easy | Two Pointers |
 | 344 | Reverse String | Easy | Two Pointers |
 | 724 | Find Pivot Index | Easy | Prefix Sum |
+| 1929 | Concatenation Of Array | Easy | Array,Stimulation |
 
 ## Daily Progress
 
