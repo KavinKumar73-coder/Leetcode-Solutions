@@ -29,6 +29,27 @@ My Leetcode  solution in python with clean and beginner-friendly code
 - ⏳ Queue
 - ⏳ Linked List
 
+
+
+# LeetCode Solutions
+
+## Problems Solved
+
+| No | Problem | Difficulty |
+|----|---------|------------|
+| 1 | Two Sum | Easy |
+| 11 | Container With Most Water | Medium |
+| 26 | Remove Duplicates from Sorted Array | Easy |
+| 27 | Remove Element | Easy |
+| 35 | Search Insert Position | Easy |
+| 66 | Plus One | Easy |
+| 121 | Best Time to Buy and Sell Stock | Easy |
+| 169 | Majority Element | Easy |
+| 217 | Contains Duplicate | Easy |
+| 283 | Move Zeroes | Easy |
+| 344 | Reverse String | Easy |
+| 724 | Find Pivot Index | Easy |
+
 ---
 
 ## Daily Progress
