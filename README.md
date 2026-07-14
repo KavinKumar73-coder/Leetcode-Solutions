@@ -30,27 +30,26 @@ My Leetcode  solution in python with clean and beginner-friendly code
 - ⏳ Linked List
 
 
-
 # LeetCode Solutions
 
-## Problems Solved
+My LeetCode solutions in Python with clean and beginner-friendly code.
 
-| No | Problem | Difficulty |
-|----|---------|------------|
-| 1 | Two Sum | Easy |
-| 11 | Container With Most Water | Medium |
-| 26 | Remove Duplicates from Sorted Array | Easy |
-| 27 | Remove Element | Easy |
-| 35 | Search Insert Position | Easy |
-| 66 | Plus One | Easy |
-| 121 | Best Time to Buy and Sell Stock | Easy |
-| 169 | Majority Element | Easy |
-| 217 | Contains Duplicate | Easy |
-| 283 | Move Zeroes | Easy |
-| 344 | Reverse String | Easy |
-| 724 | Find Pivot Index | Easy |
+## 📈 Progress
 
----
+| No | Problem | Difficulty | Pattern |
+|----|---------|------------|---------|
+| 1 | Two Sum | Easy | Hash Map |
+| 11 | Container With Most Water | Medium | Two Pointers |
+| 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
+| 27 | Remove Element | Easy | Two Pointers |
+| 35 | Search Insert Position | Easy | Binary Search |
+| 66 | Plus One | Easy | Array, Simulation |
+| 121 | Best Time to Buy and Sell Stock | Easy | Array, Greedy |
+| 169 | Majority Element | Easy | Hash Map |
+| 217 | Contains Duplicate | Easy | Hash Set |
+| 283 | Move Zeroes | Easy | Two Pointers |
+| 344 | Reverse String | Easy | Two Pointers |
+| 724 | Find Pivot Index | Easy | Prefix Sum |
 
 ## Daily Progress
 
