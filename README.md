@@ -7,8 +7,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 - 🎓 B.E. Computer Science Engineering
 - 💻 Learning Data Structures & Algorithms
 - 🐍 Programming Language: Python
-- 🎯 Goal: Software Engineer
-
+- 🎯 Goal : To become a software engineer with exceptional problem-solving skills by consistently mastering Data Structures & Algorithms, building impactful projects, and writing clean, efficient code.
 ---
 
 ## LeetCode Progress
