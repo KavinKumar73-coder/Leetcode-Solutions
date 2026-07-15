@@ -1,0 +1,14 @@
+# Approach : Interleave
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+```python 
+class Solution(object):
+    def shuffle(self, nums, n):
+        arr=[]
+        for i in range(n):         # Looping Upto given number
+            arr.append(nums[i])
+            arr.append(nums[i+n])
+        return arr
+        
