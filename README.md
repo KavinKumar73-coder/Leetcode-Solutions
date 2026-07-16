@@ -14,14 +14,14 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 14 | 13 | 1 | 0 |
+| 15 | 14 | 1 | 0 |
 
 ---
 
 ## Topics Covered
 
-- ✅ Arrays
-- ✅ Hash Map
+- ✅ Arrays                   
+- ✅ Hash Map                  
 - ✅ Two Pointers
 - ⏳ Binary Search
 - ⏳ Stack
@@ -50,6 +50,8 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 344 | Reverse String | Easy | Two Pointers |
 | 724 | Find Pivot Index | Easy | Prefix Sum |
 | 1929 | Concatenation Of Array | Easy | Array,Stimulation |
+| 1470 | Shuffle the Array | Easy | Array |
+| 485 | Max Consective Ones | Easy | Array |
 
 ## Daily Progress
 
