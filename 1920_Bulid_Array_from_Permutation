@@ -1,0 +1,18 @@
+# Difficult : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+```python 
+class Solution(object):
+    def buildArray(self, nums):
+        arr=[]
+        for i in range(len(nums)):
+            arr.append(nums[nums[i]])
+        return arr
+
+
+Input
+nums =
+[5,0,1,2,3,4]
+Output
+[4,5,0,1,2,3]
