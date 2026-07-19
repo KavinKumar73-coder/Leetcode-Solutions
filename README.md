@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 17 | 16 | 1 | 0 |
+| 18 | 17 | 1 | 0 |
 
 ---
 
@@ -54,6 +54,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 485 | Max Consective Ones | Easy | Array |
 | 1295 | Find Numbers With Even Number Of Digits | Easy | Array |
 | 1920 | Build Array From Permutation | Easy | Array,Stimulation |
+| 136 | Single Number | Easy | Array, Bit Manipulation |
 
 
 ## Daily Progress
