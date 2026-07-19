@@ -1,0 +1,19 @@
+# Approach : Bit manipulation
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+```python 
+class Solution(object):
+    def singleNumber(self, nums):
+        res=0
+        for i in nums:
+            res=res^i               #-->XOR (Which Cancels the same element)  
+        return res                  # -->Returns the unique element
+
+
+
+Input :
+nums =[2,2,1]
+Output :
+1
