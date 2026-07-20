@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 18 | 17 | 1 | 0 |
+| 19 | 18 | 1 | 0 |
 
 ---
 
@@ -55,6 +55,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1295 | Find Numbers With Even Number Of Digits | Easy | Array |
 | 1920 | Build Array From Permutation | Easy | Array,Stimulation |
 | 136 | Single Number | Easy | Array, Bit Manipulation |
+| 448 | Find All Numbers Disappeared In An Array | Easy | Array, Hash Set |
 
 
 ## Daily Progress
