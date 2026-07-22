@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 20 | 19 | 1 | 0 |
+| 21 | 20 | 1 | 0 |
 
 ---
 
@@ -57,6 +57,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 136 | Single Number | Easy | Array, Bit Manipulation |
 | 448 | Find All Numbers Disappeared In An Array | Easy | Array, Hash Set |
 | 414 | Third Maximum Number | Easy | Array,Sort |
+| 69 | Sqrt(x) |Easy | Math,Binary Search |
 
 
 ## Daily Progress
