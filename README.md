@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 21 | 20 | 1 | 0 |
+| 22 | 21 | 1 | 0 |
 
 ---
 
@@ -58,6 +58,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 448 | Find All Numbers Disappeared In An Array | Easy | Array, Hash Set |
 | 414 | Third Maximum Number | Easy | Array,Sort |
 | 69 | Sqrt(x) |Easy | Math,Binary Search |
+| 3536 | Maximum Product Of Two Digits | sort,Math |
 
 
 ## Daily Progress
