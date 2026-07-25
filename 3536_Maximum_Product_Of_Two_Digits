@@ -1,0 +1,19 @@
+ # Approach : Math & Sorting
+ # Difficulty : Easy
+ # Time Complexity : O(d log d)
+ # Space Complexity : O(d)          # d --> No.of.Digits.in n
+
+ ```python
+
+ class Solution(object):
+    def maxProduct(self, n):
+        arr=map(int,str(n))
+        arr.sort(reverse=True)
+        return arr[0]*arr[1]
+
+
+
+input
+n =124
+Output
+8
