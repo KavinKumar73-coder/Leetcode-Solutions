@@ -1,0 +1,24 @@
+# Approach : Traversal 
+# Difficulty : Easy
+# Time Complexity : O(n log n)
+# Space Complexity : O(n)
+
+```python 
+class Solution(object):
+    def missingNumber(self, nums):
+      
+        nums.sort()
+        if nums[0]!=0:
+            return 0
+        t=nums[0]
+        for i in range(len(nums)):
+            if nums[i]!=t:
+               break
+            t+=1
+        return t
+
+
+nums =
+[0,1]
+Output
+2
