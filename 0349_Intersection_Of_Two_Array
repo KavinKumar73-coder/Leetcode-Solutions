@@ -1,0 +1,20 @@
+# Approach : Set,Hash
+# Difficulty : Easy
+# Time Complexity : O( n + m )
+# Space complexity : O(n)
+
+```python
+
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        s=set(nums1)
+        res=set()
+        for i in nums2:
+            if i in s:
+                res.add(i)
+        return list(res)
+
+nums1 =
+[4,9,5]
+nums2 =
+[9,4,9,8,4]
