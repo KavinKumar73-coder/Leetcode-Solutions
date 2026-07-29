@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 25 | 24 | 1 | 0 |
+| 26 | 25 | 1 | 0 |
 
 ---
 
@@ -62,7 +62,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 3536 | Maximum Product Of Two Digits | Easy | sort,Math |
 | 349 | Intersection Of Two  Array | Easy | Set,Hash |
 | 709 | To Lower Case | Easy | String |
-
+| 58 | Length Of Last Word | Easy | String |
 
 ## Daily Progress
 
