@@ -1,0 +1,23 @@
+# Approach : Reverse Traversal
+# Difficulty : easy
+# Time Complexity : O(n)
+# Space Complexity :O(1)
+
+```python 
+
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        count=0
+        for i in range(len(s)-1,-1,-1):
+            if s[i]==" ":
+                if count>0:
+                    break
+            else:
+                count+=1
+        return count
+
+Input
+s =
+"   fly me   to   the moon  "
+Output
+4
