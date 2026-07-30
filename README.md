@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 26 | 25 | 1 | 0 |
+| 28 | 27 | 1 | 0 |
 
 ---
 
@@ -63,6 +63,8 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 349 | Intersection Of Two  Array | Easy | Set,Hash |
 | 709 | To Lower Case | Easy | String |
 | 58 | Length Of Last Word | Easy | String |
+| 2235 | Add Two Integers | Easy | Math |
+| 2469 | Convert The Temperature | Easy | Math |
 
 ## Daily Progress
 
