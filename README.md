@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 29 | 28 | 1 | 0 |
+| 30 | 29 | 1 | 0 |
 
 ---
 
@@ -65,6 +65,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 58 | Length Of Last Word | Easy | String |
 | 2235 | Add Two Integers | Easy | Math |
 | 2469 | Convert The Temperature | Easy | Math |
+| 1672 | Richest Customer Wealth | Eady | Array , Matrix |
 
 ## Daily Progress
 
