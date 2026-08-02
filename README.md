@@ -65,7 +65,8 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 58 | Length Of Last Word | Easy | String |
 | 2235 | Add Two Integers | Easy | Math |
 | 2469 | Convert The Temperature | Easy | Math |
-| 1672 | Richest Customer Wealth | Eady | Array , Matrix |
+| 1672 | Richest Customer Wealth | Easy | Array , Matrix |
+| 2011 | Final value of Variable After Performing Operations | Easy | Array |
 
 ## Daily Progress
 
