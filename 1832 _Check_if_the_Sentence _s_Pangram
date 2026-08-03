@@ -1,0 +1,22 @@
+# Approach : set
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+
+```python
+
+class Solution(object):
+    def checkIfPangram(self, sentence):
+        return len(set(sentence)) == 26
+
+
+1.Input
+sentence ="leetcode"
+Output:
+false
+
+2.Input
+sentence ="thequickbrownfoxjumpsoverthelazydog"
+Output:
+true
