@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 31 | 30 | 1 | 0 |
+| 32 | 31 | 1 | 0 |
 
 ---
 
@@ -68,6 +68,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1672 | Richest Customer Wealth | Easy | Array , Matrix |
 | 2011 | Final value of Variable After Performing Operations | Easy | Array |
 | 1832 | Check if the Sentence is Pangram | Easy | Set ,Hash |
+| 3731 | Find Missing Elements | Easy | Set , Hash |
 
 ## Daily Progress
 
