@@ -1,0 +1,25 @@
+# Approach : Set, Hash
+# Difficulty : Easy
+# Time Complexity : O(n + (max - min))
+# Space Complexity : O(n)
+
+```python
+
+
+class Solution(object):
+    def findMissingElements(self, nums):
+        min_val=min(nums)
+        max_val=max(nums)
+        s=set(nums)
+        arr=[]
+        for i in range(min_val+1,max_val):
+            if i not in s:
+                arr.append(i)
+        return arr
+
+
+
+Input
+nums =[5,1]
+Output
+[2,3,4]
