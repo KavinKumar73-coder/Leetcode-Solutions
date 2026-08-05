@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 32 | 31 | 1 | 0 |
+| 33 | 32 | 1 | 0 |
 
 ---
 
@@ -69,7 +69,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 2011 | Final value of Variable After Performing Operations | Easy | Array |
 | 1832 | Check if the Sentence is Pangram | Easy | Set ,Hash |
 | 3731 | Find Missing Elements | Easy | Set , Hash |
-
+| 1108 | Defanging An IP Address | Easy | String |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
