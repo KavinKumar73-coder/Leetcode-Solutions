@@ -1,0 +1,19 @@
+# Approach : replace function
+# Difficulty : easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+```python 
+
+class Solution(object):
+    def defangIPaddr(self, address):
+        res = address.replace(".","[.]")
+        return res
+
+
+
+ Input:
+address ="1.1.1.1"
+Output:
+"1[.]1[.]1[.]1"
