@@ -1,0 +1,29 @@
+# Approach : Math , Enumeration 
+# Difficulty : Easy
+# Time Complexity : O( k x d )
+# space Complexity : O(1)
+
+
+``python 
+
+class Solution(object):
+    def smallestNumber(self, n, t):
+        while True:
+            temp=n
+            product=1
+            while temp>0:
+                digit=temp%10
+                product=product * digit
+                temp=temp//10
+            if product % t== 0:
+                return n
+            n+=1
+
+
+Input
+n =
+10
+t =
+2
+Output
+10
