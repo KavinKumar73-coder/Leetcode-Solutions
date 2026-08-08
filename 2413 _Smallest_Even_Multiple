@@ -1,0 +1,13 @@
+# Approach : Number Theory
+# Difficulty : Easy
+# Time Complexity : O(1)
+# Space Complexity : O(1)
+
+
+``python  
+
+
+Input
+n=5
+Output:
+10
