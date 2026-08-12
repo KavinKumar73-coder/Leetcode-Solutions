@@ -73,6 +73,9 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 83 |  Remove Duplicates from Sorted List | Easy | Linked list |
 | 2413 | Smallest Even Multiple | Easy | Math, Number Theory |
 | 125 | Valid Palindrome | Easy | Two pointer |
+| 2996 | Smallest Missing Integer Greater  Than Sequential Prefix Sum | Easy | set |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree |
+
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
