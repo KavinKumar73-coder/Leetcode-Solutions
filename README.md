@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 37 | 36 | 1 | 0 |
+| 38 | 37 | 1 | 0 |
 
 ---
 
@@ -75,6 +75,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 125 | Valid Palindrome | Easy | Two pointer |
 | 2996 | Smallest Missing Integer Greater  Than Sequential Prefix Sum | Easy | set |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree |
+| 1431 | Kids with The Greatest Number of Candies | Easy | Traversal |
 
 ## Daily Progress
 
