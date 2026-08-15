@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 38 | 37 | 1 | 0 |
+| 39 | 38 | 1 | 0 |
 
 ---
 
@@ -76,7 +76,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 2996 | Smallest Missing Integer Greater  Than Sequential Prefix Sum | Easy | set |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree |
 | 1431 | Kids with The Greatest Number of Candies | Easy | Traversal |
-
+| 412 | Fizz Buzz | Easy | String , Stimulation |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
