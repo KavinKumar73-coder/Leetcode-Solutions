@@ -1,0 +1,24 @@
+# Approach : Hashtable,string
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+```python []
+
+class Solution(object):
+    def destCity(self, paths):
+        res=set()
+        for i in paths:      
+            res.add(i[0])      # i[0]---> { "B","D","C"}
+        for i in paths:
+            if i[1] not in res:     # i[1]--->{ "C","B","A"}
+                return i[1]         
+
+
+
+Input
+paths =
+[["London","New York"],["New York","Lima"],["Lima","Sao Paulo"]]
+Output
+"Sao Paulo"
