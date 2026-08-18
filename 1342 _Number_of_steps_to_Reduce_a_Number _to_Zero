@@ -1,0 +1,31 @@
+# Approach : Math , Bit Manipulation 
+# Difficulty : Easy
+# Time Complexity : O(log n)
+# Space Complexity : O(1)
+
+
+
+``python []
+
+class Solution(object):
+    def numberOfSteps(self, num):
+        c=0
+        while num>0:
+            a=num%2
+            if a==0:
+                num=num//2
+            else:
+                num=num-1
+            c=c+1
+        return c
+
+
+
+
+
+
+
+Input
+num =123
+Output
+12
