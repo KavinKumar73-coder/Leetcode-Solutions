@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 40 | 39 | 1 | 0 |
+| 41 | 40 | 1 | 0 |
 
 ---
 
@@ -78,6 +78,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1431 | Kids with The Greatest Number of Candies | Easy | Traversal |
 | 412 | Fizz Buzz | Easy | String , Stimulation |
 | 1436 | Destination City | Easy | Hashtable , string |
+| 1342  Number of steps to Reduce a Number to Zero | Easy | Math , Bit Manipultion |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
