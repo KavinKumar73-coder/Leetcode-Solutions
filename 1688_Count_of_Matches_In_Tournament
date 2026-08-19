@@ -1,0 +1,17 @@
+# Time Complexity : O(1)
+# Space Complexity : O(1)
+
+
+`python []
+
+class Solution(object):
+    def numberOfMatches(self, n):
+        return n-1
+     
+
+
+
+ Input :
+n =14
+Output  :
+13
