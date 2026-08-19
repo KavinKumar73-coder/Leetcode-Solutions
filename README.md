@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 41 | 40 | 1 | 0 |
+| 42 | 41 | 1 | 0 |
 
 ---
 
@@ -79,6 +79,8 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 412 | Fizz Buzz | Easy | String , Stimulation |
 | 1436 | Destination City | Easy | Hashtable , string |
 | 1342  Number of steps to Reduce a Number to Zero | Easy | Math , Bit Manipultion |
+| 1688 | Count Of Matches In Tournament | Easy | Math |
+
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
