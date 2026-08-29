@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 43 | 42 | 1 | 0 |
+| 44 | 43 | 1 | 0 |
 
 ---
 
@@ -81,6 +81,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1342  Number of steps to Reduce a Number to Zero | Easy | Math , Bit Manipultion |
 | 1688 | Count Of Matches In Tournament | Easy | Math |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | Array |
+| 1512 |  Number Of Good pairs |Easy | Hashtable, Array Traversal |
 
 ## Daily Progress
 
