@@ -1,0 +1,28 @@
+# Approach : HashMap , Frequency Counts
+# Difficulty : easy
+# Time Complexity : O( n + m)
+# Space Complexity : O(k)
+
+
+
+``python []
+
+class Solution(object):
+    def canConstruct(self, ransomNote, magazine):
+        count={}
+        for i in magazine:
+            count[i]=count.get(i,0)+1          
+        for i in ransomNote:
+            if i not in count or count[i]==0:
+                return False
+                break
+            count[i]-=1
+        else:
+            return True
+
+
+ransomNote =
+"aa"
+magazine =
+"aab"
+output : True
