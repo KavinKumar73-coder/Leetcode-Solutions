@@ -1,0 +1,25 @@
+# Approach : Hashtable , Frequency Count
+# Difficulty : Easy 
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+
+``python []
+
+class Solution(object):
+    def firstUniqChar(self, s):
+       count={}
+       for i in s:
+           count[i]=count.get(i,0)+1
+       for i in range(len(s)):
+           if count[s[i]]==1:
+              return i
+       return -1
+
+       
+    
+  Input
+s =
+"loveleetcode"
+Output
+2
