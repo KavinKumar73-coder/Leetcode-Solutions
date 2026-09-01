@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 45 | 44 | 1 | 0 |
+| 46 | 45 | 1 | 0 |
 
 ---
 
@@ -83,6 +83,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | Array |
 | 1512 |  Number Of Good pairs |Easy | Hashtable, Array Traversal |
 | 383 | Ransom Note | Easy | Hashmap , Frequency Count |
+| 387 |  First Unique Character in a String | Easy | Hashmap, Frequency count | 
 
 ## Daily Progress
 
