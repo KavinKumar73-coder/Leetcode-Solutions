@@ -1,0 +1,28 @@
+# Approach : HashMap , Sorting 
+# Difficulty : Medium
+# Time Complexity : O ( n x k log k)
+# Space Complexity : O( n x k )
+
+
+python ``` []
+
+
+class Solution(object):
+    def groupAnagrams(self, strs):
+        count={}
+        for i in strs:
+            key="".join(sorted(i))
+            if key not in count:
+                count[key] = []
+            count[key].append(i)
+        return list(count.values())
+        
+
+        
+
+
+Input
+strs =
+["eat","tea","tan","ate","nat","bat"]
+Output
+[["tan","nat"],["bat"],["eat","tea","ate"]]
