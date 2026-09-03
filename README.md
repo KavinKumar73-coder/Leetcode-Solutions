@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 47 | 45 | 2 | 0 |
+| 48 | 46 | 2 | 0 |
 
 ---
 
@@ -84,7 +84,8 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1512 |  Number Of Good pairs |Easy | Hashtable, Array Traversal |
 | 383 | Ransom Note | Easy | Hashmap , Frequency Count |
 | 387 |  First Unique Character in a String | Easy | Hashmap, Frequency count | 
-| 49 |  Group Anagrams | Mesium | Hashmap , Sorting |
+| 49 |  Group Anagrams | Medium | Hashmap , Sorting |
+| 219 | Contains Duplicate ll  | Easy | Hashmap , Slindingwindow |
 
 ## Daily Progress
 
