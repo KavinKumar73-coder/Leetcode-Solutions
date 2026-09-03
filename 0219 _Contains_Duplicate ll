@@ -1,0 +1,28 @@
+# Approach : Hashing , Slinding window 
+# Difficulty : Easy 
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+`python []
+
+class Solution(object):
+    def containsNearbyDuplicate(self, nums, k):
+        count={}
+        for i in range(len(nums)):
+            if nums[i] in count:
+                if i - count[nums[i]]<=k:
+                    return True
+            count[nums[i]]=i
+        return False
+
+
+
+
+nput
+nums =
+[1,0,1,1]
+k =
+1
+Output
+true
