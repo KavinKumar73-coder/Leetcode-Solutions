@@ -1,0 +1,29 @@
+# Approach : Hashmap , strings
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+``python []
+
+
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        s_t={}
+        t_s={}
+        for i,j in zip(s,t):
+            if i in s_t and s_t[i]!=j:
+                return False
+            if j in t_s and t_s[j]!=i:
+                return False
+            s_t[i]=j
+            t_s[j]=i
+        return True
+        
+        
+  Input
+s =
+"paper"
+t =
+"title"
+Output
+true
