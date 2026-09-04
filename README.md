@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 48 | 46 | 2 | 0 |
+| 49 | 47 | 2 | 0 |
 
 ---
 
@@ -86,7 +86,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 387 |  First Unique Character in a String | Easy | Hashmap, Frequency count | 
 | 49 |  Group Anagrams | Medium | Hashmap , Sorting |
 | 219 | Contains Duplicate ll  | Easy | Hashmap , Slindingwindow |
-
+| 205 |  Isomorphic Strings | Easy | Hashmap , Strings |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
