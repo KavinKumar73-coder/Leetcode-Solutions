@@ -1,0 +1,32 @@
+# Approach : Hashmap , String , Split()
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+``python []
+
+class Solution(object):
+    def wordPattern(self, pattern, s):
+        new=s.split()       # ['dog', 'cat', 'cat', 'dog']
+        temp1={}
+        temp2={}
+        if len(pattern)!=len(new):
+            return False
+        for i,j in zip(pattern,new):
+            if i in temp1 and temp1[i]!=j:
+                return False
+            if j in temp2 and temp2[j]!=i:
+                return False
+            temp1[i]=j
+            temp2[j]=i
+        return True
+
+
+Input
+pattern =
+"abba"
+s =
+"dog cat cat dog"
+Output:
+true
