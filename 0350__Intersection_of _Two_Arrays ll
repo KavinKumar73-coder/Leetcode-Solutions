@@ -1,0 +1,31 @@
+# Approach : Hashmap , list, two pointers
+# Difficulty : easy
+# Time Complexity : O(n + m)
+# Space Complexity : O(n)
+
+
+
+```python []
+
+class Solution(object):
+    def intersect(self, nums1, nums2):
+        count={}
+        result=[]
+        for i in nums1:
+            count[i]=count.get(i,0) + 1
+        for i in nums2:
+            if count.get(i,0)>0:
+                result.append(i)
+                count[i]-=1
+        return result
+        
+
+
+
+nput
+nums1 =
+[1,2,2,1]
+nums2 =
+[2,2]
+Output
+[2,2]
