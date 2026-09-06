@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 50 | 48 | 2 | 0 |
+| 51 | 49 | 2 | 0 |
 
 ---
 
@@ -88,6 +88,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 219 | Contains Duplicate ll  | Easy | Hashmap , Slindingwindow |
 | 205 |  Isomorphic Strings | Easy | Hashmap , Strings |
 | 290 | Word Pattern | Easy | Hashmap , strings , Dictionary|
+| 350 |  Intersection of Two Arrays ll | Easy | Hashmap , two pointers |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
