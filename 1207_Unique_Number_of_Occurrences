@@ -1,0 +1,25 @@
+# Approach : Hashmap , Set
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+``python[]
+
+class Solution(object):
+    def uniqueOccurrences(self, arr):
+       count={}
+       for i in arr:
+
+        count[i]=count.get(i,0)+1
+       x=count.values()
+       
+       return len(x)==len(set(x))        
+
+
+
+nput
+arr =
+[1,2,1,1,2,3]
+Output
+true
