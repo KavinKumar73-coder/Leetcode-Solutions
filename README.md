@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 52 | 49 | 3 | 0 |
+| 53 | 50 | 3 | 0 |
 
 ---
 
@@ -90,6 +90,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 290 | Word Pattern | Easy | Hashmap , strings , Dictionary|
 | 350 |  Intersection of Two Arrays ll | Easy | Hashmap , two pointers |
 | 451 | Sort Characters By Frequency | Medium | Hashtable , bucket sort , Counting |
+| 1207 | Unique Number of Occurrences | Easy | Hashmap , set |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
