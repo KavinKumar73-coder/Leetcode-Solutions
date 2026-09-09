@@ -78,7 +78,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1431 | Kids with The Greatest Number of Candies | Easy | Traversal |
 | 412 | Fizz Buzz | Easy | String , Stimulation |
 | 1436 | Destination City | Easy | Hashtable , string |
-| 1342  Number of steps to Reduce a Number to Zero | Easy | Math , Bit Manipultion |
+| 1342 | Number of steps to Reduce a Number to Zero | Easy | Math , Bit Manipultion |
 | 1688 | Count Of Matches In Tournament | Easy | Math |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | Array |
 | 1512 |  Number Of Good pairs |Easy | Hashtable, Array Traversal |
