@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 53 | 50 | 3 | 0 |
+| 54 | 51 | 3 | 0 |
 
 ---
 
@@ -91,6 +91,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 350 |  Intersection of Two Arrays ll | Easy | Hashmap , two pointers |
 | 451 | Sort Characters By Frequency | Medium | Hashtable , bucket sort , Counting |
 | 1207 | Unique Number of Occurrences | Easy | Hashmap , set |
+| 1128 | Number Of Equivalent Domino Pairs | Easy | HAsh,list |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
