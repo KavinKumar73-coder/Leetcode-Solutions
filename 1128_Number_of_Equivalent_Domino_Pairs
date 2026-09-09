@@ -1,0 +1,28 @@
+# Approach : HAshtable,list,min and max
+# difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+`python []
+
+
+class Solution(object):
+    def numEquivDominoPairs(self, dominoes):
+        count={}
+        res=0
+        for i in dominoes:
+            x= ( min(i),max(i))
+            if x in count:
+                res=res+count[x]
+            count[x]=count.get(x,0)+1
+        return res
+
+
+
+
+nput
+dominoes =
+[[1,2],[1,2],[1,1],[1,2],[2,2]]
+Output
+3
