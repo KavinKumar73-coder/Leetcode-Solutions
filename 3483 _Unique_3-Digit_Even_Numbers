@@ -1,0 +1,32 @@
+# Approach : Enumerations, Loops
+# Difficulty : Easy
+# Time Complexity : O(n3)
+# Space Complexity : O(n3)
+
+
+`python []
+
+class Solution(object):
+    def totalNumbers(self, digits):
+        res=set()
+        for x in range(len(digits)):
+            for y in range(len(digits)):
+                for z in range(len(digits)):
+                    if digits[x]==0:
+                        continue
+                    if digits[z]%2!=0:
+                        continue
+                    if x==y or x==z or y==z:
+                        continue
+                    nums=digits[x]*100 + digits[y]*10 + digits[z]
+                    res.add(nums) 
+        return len(res)
+      
+
+
+
+Input
+digits =
+[1,2,3,4]
+Output
+12
