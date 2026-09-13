@@ -1,0 +1,29 @@
+# Approach : Brute Force
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+`python[]
+class Solution(object):
+    def summaryRanges(self, nums):
+        st=0
+        res=[]
+        for i in range(len(nums)):
+            if i==len(nums)-1 or nums[i+1]!=nums[i]+1:
+                if st==i:
+                    res.append(str(nums[i]))
+                else:
+                    res.append(str(nums[st]) + "->" + str(nums[i]))
+                st=i+1
+        return res       
+
+
+
+
+
+Input
+nums =
+[0,1,2,4,5,7]
+Output
+["0->2","4->5","7"]
