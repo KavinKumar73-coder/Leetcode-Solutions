@@ -1,0 +1,29 @@
+# Approach : Stack( LIFO )
+# Difficulty : easy
+# Time Complexity : O(n)
+# Space Complexity : O(n)
+
+
+`python
+
+
+class Solution(object):
+    def isValid(self, s):
+       res=[]
+       pairs={ ')':'(','}':'{',']':'['}
+       for i in s :
+        if i in pairs:
+            if not res or res[-1]!=pairs[i]:
+                return False
+            res.pop()
+        else:
+            res.append(i)
+       return len(res)==0
+
+
+
+      Input
+s =
+"()[]{}"
+Output
+true
