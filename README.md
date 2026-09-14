@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 57| 54 | 3 | 0 |
+| 58| 55 | 3 | 0 |
 
 ---
 
@@ -95,6 +95,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 0013 | Roman To Integer | Easy | Dictionary , Brute Force |
 | 3483 | Unique 3-Digit Even Numbers | Easy  | Enumeration , loops concept |
 | 228 | Summary ranges | Easy | String , List |
+| 20 | Valid Parantheses | stack (LIFO) |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
