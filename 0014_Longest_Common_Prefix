@@ -1,0 +1,26 @@
+# Approach : Loop Traversal 
+## Difficulty : Easy
+# Time Complexity : O(n x m )
+# Space Complexity : O(1)
+
+
+
+`python []
+
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+      prefix=strs[0]
+      for chars in strs:
+        while not chars.startswith(prefix):
+            prefix=prefix[:-1]
+      return prefix
+
+
+
+
+
+Input
+strs =
+["flower","flow","flight"]
+Output
+"fl"
