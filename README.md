@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 60| 55 | 5 | 0 |
+| 61| 56 | 5 | 0 |
 
 ---
 
@@ -97,7 +97,8 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 228 | Summary ranges | Easy | String , List |
 | 20 | Valid Parantheses | stack (LIFO) |
 | 525 | Contiguous Array | Medium | Hash , Dict , prefix sum | 
-| 447 | Number Of Boomerangs | HAsh, Pairs, Frequency |
+| 447 | Number Of Boomerangs |Medium | HAsh, Pairs, Frequency |
+| 14 |  Longest Common prefix | Easy | Traversal , Pyfunc |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
