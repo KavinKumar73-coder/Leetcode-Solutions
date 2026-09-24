@@ -1,0 +1,30 @@
+# Approach :  Digit Extraction + Linear Search 
+# Difficulty ; Easy
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+
+class Solution(object):
+    def smallestIndex(self, nums):
+        for i in range(len(nums)):
+            n=nums[i]
+            res=0
+            while n>0:
+              
+                res=res + n%10
+                n=n//10
+           
+            if res==i:
+
+                return i
+        return -1
+             
+       
+        
+
+      
+       Input
+nums =
+[1,10,11]
+Output
+1
