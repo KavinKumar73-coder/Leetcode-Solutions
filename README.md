@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 63| 58 | 5 | 0 |
+| 64| 58 | 6 | 0 |
 
 ---
 
@@ -101,6 +101,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 14 |  Longest Common prefix | Easy | Traversal , Pyfunc |
 | 3498 | Reverse Degree of a String | Easy | Brute, Ord() |
 | 3550 | Smallest Index With Digit Sum Equal To Index | Easy | Array , math | 
+| 554 | Brick Wall | Medium | Hashap , Prefix Sum |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
