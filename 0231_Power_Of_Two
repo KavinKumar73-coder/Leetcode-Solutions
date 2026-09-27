@@ -1,0 +1,25 @@
+# Approach : Recursive, Math
+# Difficulty : easy
+# Time Complexity : O(log n)
+# Space Complexity : O(1)
+
+
+`python []
+
+
+class Solution(object):
+    def isPowerOfTwo(self, n):
+        if n<=0:
+            return False
+        while n%2==0:
+            n=n//2
+        return n==1
+       
+        
+
+
+Input
+n =
+16
+Output
+true
