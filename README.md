@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 66| 60 | 6 | 0 |
+| 67| 61 | 6 | 0 |
 
 ---
 
@@ -104,6 +104,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 554 | Brick Wall | Medium | Hashap , Prefix Sum |
 | 202 | Happy Number | Easy | Floyd's Cycle Finding Algorithm, Hash |
 | 231 | Power Of Two | Easy | Recursive , Math |
+| 1614 | Maximum Nesting Depth of the Parentheses | Easy | Stack , Bracket Sequence |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
