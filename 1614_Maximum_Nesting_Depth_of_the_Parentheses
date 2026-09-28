@@ -1,0 +1,29 @@
+# Approach : String , Stack , Bracket sequence
+# Difficulty : Easy
+# Time Complexity : O(n)
+# SPace COmplexity : O(1)
+
+
+````python []
+
+class Solution(object):
+    def maxDepth(self, s):
+        res=0
+        deep=0
+        for i in s:
+            if i == '(':
+                deep=deep+1
+                res=max(res,deep)
+            elif i ==')':
+                deep=deep-1
+        return res
+
+
+       
+
+
+Input
+s =
+"(1+(2*3)+((8)/4))+1"
+Output
+3
