@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 67| 61 | 6 | 0 |
+| 68| 62 | 6 | 0 |
 
 ---
 
@@ -105,6 +105,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 202 | Happy Number | Easy | Floyd's Cycle Finding Algorithm, Hash |
 | 231 | Power Of Two | Easy | Recursive , Math |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | Stack , Bracket Sequence |
+| 28 |Find the Index of the First Occurrence in a String | Easy | Boyer–Moore String-Search Algorithm, Knuth–Morris–Pratt Algorithm, Z Algorithm |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
