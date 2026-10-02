@@ -1,0 +1,25 @@
+# Approcah : Two pointers, String , Dynamic Programming
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+
+```python []
+
+class Solution(object):
+    def isSubsequence(self, s, t):
+        count=0
+        for i in range(len(t)):
+            if count<len(s) and s[count]==t[i]:
+                count+=1
+        if count == len(s):
+            return True
+        return False
+        
+
+
+
+
+Input
+s ="axc"
+t ="ahbgdc"
