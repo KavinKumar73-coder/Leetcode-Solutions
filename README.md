@@ -106,6 +106,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 231 | Power Of Two | Easy | Recursive , Math |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | Stack , Bracket Sequence |
 | 28 |Find the Index of the First Occurrence in a String | Easy | Boyer–Moore String-Search Algorithm, Knuth–Morris–Pratt Algorithm, Z Algorithm |
+| 392 |  Is Subsequence | Easy | Two Pointers |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
