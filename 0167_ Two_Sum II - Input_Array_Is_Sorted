@@ -1,0 +1,29 @@
+# Approach : Two ponters , Binary coverings
+# Difficulty : Medium
+# Time Complexity : O(n)
+# Space Complexity : O(1)
+
+
+``python[]
+
+class Solution(object):
+    def twoSum(self, numbers, target):
+        left=0
+        right=len(numbers)-1
+        while left<right:
+            tot=numbers[left]+numbers[right]
+            if tot==target:
+                return [left+1,right+1]
+            elif tot>target:
+                right-=1
+            else:
+                left+=1
+
+
+nput
+numbers =
+[2,7,11,15]
+target =
+9
+Output
+[1,2]
