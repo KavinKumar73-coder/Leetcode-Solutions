@@ -1,0 +1,22 @@
+# Approach : Fibonacci Series
+# Difficulty : easy
+# Time Complexity : O(n)
+# SPace Complexity : O(1)
+
+
+``pyhton []
+
+class Solution(object):
+    def climbStairs(self, n):
+        a=b=1
+        for i in range(n):
+            a,b=b,a+b
+        return a
+
+
+
+
+input :
+n=4
+output:
+5
