@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 70| 64 | 6 | 0 |
+| 71| 65 | 6 | 0 |
 
 ---
 
@@ -108,6 +108,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 28 |Find the Index of the First Occurrence in a String | Easy | Boyer–Moore String-Search Algorithm, Knuth–Morris–Pratt Algorithm, Z Algorithm |
 | 392 |  Is Subsequence | Easy | Two Pointers |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointer , Binary Covering |
+| 70| Climbing Stair | Easy | Math |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
