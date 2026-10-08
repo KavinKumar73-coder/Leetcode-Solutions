@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 72| 66 | 6 | 0 |
+| 73| 67 | 6 | 0 |
 
 ---
 
@@ -110,6 +110,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointer , Binary Covering |
 | 70| Climbing Stair | Easy | Math |
 | 118 | Pascal's Triangle | Easy | Dynamic Progmme |
+| 1021 | Remove Outermost Parentheses | Easy | String , Bracket Sequence |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
