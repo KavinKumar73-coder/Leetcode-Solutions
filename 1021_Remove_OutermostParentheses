@@ -1,0 +1,32 @@
+# Approcach : Stack concept , Bracket Sequence
+# Difficulty : Easy
+# Time Complexity : O(n)
+# Space COmplexity : O(n)
+
+
+
+~~~ python[]
+
+
+class Solution(object):
+    def removeOuterParentheses(self, s):
+        res=""
+        deep=0
+        for i in s:
+            if i == '(':
+                if deep >0:
+                    res=res+i
+                deep+=1
+            else:
+                deep-=1
+                if deep>0:
+                    res+=i
+        return res
+
+
+       
+        Input
+s =
+"(()())(())"
+Output
+"()()()"
