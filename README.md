@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 73| 67 | 6 | 0 |
+| 74| 68 | 6 | 0 |
 
 ---
 
@@ -111,6 +111,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 70| Climbing Stair | Easy | Math |
 | 118 | Pascal's Triangle | Easy | Dynamic Progmme |
 | 1021 | Remove Outermost Parentheses | Easy | String , Bracket Sequence |
+|1876 | Substrings of Size Three with Distinct Characters | Easy | Sliding Window| 
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
