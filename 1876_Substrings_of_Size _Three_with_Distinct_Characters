@@ -1,0 +1,25 @@
+# Approach : Sliding WIndow (FIxed)
+# Difficulty : Easy
+# Time COmpleity : O(n)
+# Space COmplexity : O(1)
+
+
+```python[]
+
+class Solution(object):
+    def countGoodSubstrings(self, s):
+        count=0
+      
+        for i in range(3,len(s)+1):
+            win=s[i-3:i]
+            if len(set(win))==3:
+                count+=1
+        return count
+
+
+
+Input
+s =
+"aababcabc"
+Output
+4
