@@ -1,0 +1,25 @@
+# Approach : String slicing
+# Difficulty : Easy
+# Time Complexity : O(n2)
+# Space Complexity : O(n)
+
+```python[]
+
+class Solution(object):
+    def sumCounts(self, nums):
+        res=0
+        for i in range(len(nums)):
+            for j in range(i,len(nums)):
+                sub=nums[i:j+1]
+                ans=len(set(sub))
+                res=res+ ans**2
+        return res
+
+
+
+
+Input
+nums =
+[1,2,1]
+Output
+15
