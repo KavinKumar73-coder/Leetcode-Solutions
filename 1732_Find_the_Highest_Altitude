@@ -1,0 +1,29 @@
+# Approach : Prefix Sum, Array
+# Difficulty : Easy
+# Time COmplexity : O(n)
+# Space COmplexity : O(1)
+
+
+
+
+
+```python[]
+
+class Solution(object):
+    def largestAltitude(self, gain):
+        altitude=0
+        maxhigh=0
+        for i in gain:
+            altitude+=i
+            maxhigh=max(maxhigh,altitude)
+        return maxhigh
+        
+
+
+
+
+Input
+gain =
+[-5,1,5,0,-7]
+Output
+1
