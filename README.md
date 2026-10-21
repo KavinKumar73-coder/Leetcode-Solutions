@@ -113,6 +113,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1021 | Remove Outermost Parentheses | Easy | String , Bracket Sequence |
 |1876 | Substrings of Size Three with Distinct Characters | Easy | Sliding Window| 
 | 75 | Sort Colors | Medium | Sorting,array |
+|1732 | Find the Highest Altitude | Easy | Prefix sum , Array |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
