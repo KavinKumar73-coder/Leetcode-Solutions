@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 76| 69 | 7 | 0 |
+| 77| 69 | 8 | 0 |
 
 ---
 
@@ -114,6 +114,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 |1876 | Substrings of Size Three with Distinct Characters | Easy | Sliding Window| 
 | 75 | Sort Colors | Medium | Sorting,array |
 |1732 | Find the Highest Altitude | Easy | Prefix sum , Array |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers , Array |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
