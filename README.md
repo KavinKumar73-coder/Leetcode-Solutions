@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 79| 69 | 10 | 0 |
+| 80| 69 | 11 | 0 |
 
 ---
 
@@ -116,6 +116,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 |1732 | Find the Highest Altitude | Easy | Prefix sum , Array |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers , Array |
 | 15 | 3 Sum | Medium | Two Pointers  SOrting |
+| 16 | # Sum Closest | Two pointers, abs |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
