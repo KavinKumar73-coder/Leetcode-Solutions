@@ -1,0 +1,38 @@
+# Approach : Two Pointers
+# Diificulty : Medium
+# Time Complexity : O(n2)
+# Space Complexity : O(1) Auxillary
+
+
+``python []
+class Solution(object):
+    def threeSumClosest(self, nums, target):
+        nums.sort()
+        close=nums[0]+nums[1]+nums[2]
+        for i in range(len(nums)-2):
+            j=i+1
+            k=len(nums)-1
+            while j<k:
+                tot=nums[i]+nums[j]+nums[k]
+                if abs(tot-target)<abs(close-target):
+                    close=tot
+                if tot<target:
+                    j+=1
+                elif tot>target:
+                    k-=1
+                else:
+                    return target
+        return close
+
+
+
+Input
+nums =
+[-1,2,1,-4]
+target =
+1
+Output
+2
+                
+        
+        
