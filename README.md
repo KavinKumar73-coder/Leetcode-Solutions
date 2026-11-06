@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 81| 70 | 11 | 0 |
+| 82| 70 | 12 | 0 |
 
 ---
 
@@ -118,6 +118,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 15 | 3 Sum | Medium | Two Pointers  SOrting |
 | 16 | 3 Sum Closest | Medium | Two pointers, abs |
 | 1385| Find the Distance Value Between Two Arrays| Easy | Two Pointers ,array |
+| 18 | 4Sum | Medium | Two pointers , sort |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
