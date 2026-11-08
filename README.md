@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 83| 70 | 13 | 0 |
+| 84| 71 | 13 | 0 |
 
 ---
 
@@ -120,6 +120,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 1385| Find the Distance Value Between Two Arrays| Easy | Two Pointers ,array |
 | 18 | 4Sum | Medium | Two pointers , sort |
 | 581 | Shortest Unsorted Continuous Subarray | Medium | Two Pointers , Array |
+| 844 | Backspace String Compare | Easy | String , Two Pointers |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
