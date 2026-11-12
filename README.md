@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 84| 71 | 13 | 0 |
+| 85| 72 | 13 | 0 |
 
 ---
 
@@ -121,6 +121,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 18 | 4Sum | Medium | Two pointers , sort |
 | 581 | Shortest Unsorted Continuous Subarray | Medium | Two Pointers , Array |
 | 844 | Backspace String Compare | Easy | String , Two Pointers |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array , Two pointers |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
