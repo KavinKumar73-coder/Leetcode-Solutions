@@ -1,0 +1,23 @@
+# Approach : HashTable , Bit Manipulation , Array, set
+# Difficulty : Easy
+# Time Complexity : o(n)
+# Space Complexity : O(n)
+
+
+`python []
+
+class Solution(object):
+    def twoOutOfThree(self, nums1, nums2, nums3):
+        count={}
+        for i in (nums1,nums2,nums3):
+            for j in set(i):
+                  count[j]=count.get(j,0)+1
+          
+        return [j for j in count if count[j]>=2]
+
+
+nput
+nums1 =
+[1,1,3,2],nums2 =[2,3],nums3 =[3]
+Output
+[2,3]
