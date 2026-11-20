@@ -14,7 +14,7 @@ My Leetcode  solution in python with clean and beginner-friendly code
 
 | Solved | Easy | Medium | Hard |
 |--------:|------:|--------:|------:|
-| 87| 74 | 13 | 0 |
+| 88| 75 | 13 | 0 |
 
 ---
 
@@ -124,6 +124,7 @@ My LeetCode solutions in Python with clean and beginner-friendly code.
 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array , Two pointers |
 | 2032 |  Two Out of Three | Easy | Hash table, Bit Manipulation |
 | 1961| Check If String Is a Prefix of Array | Easy| Two Pointers | 
+| 1662| Check If Two String Arrays are Equivalent | Easy | Two Pointers , Strings, Array |
 ## Daily Progress
 
 I solve at least one LeetCode problem every day and upload the solution here.
