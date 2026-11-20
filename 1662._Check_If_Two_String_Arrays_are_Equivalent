@@ -1,0 +1,35 @@
+# Approach : Two pointers Concept
+# Difficulty : Easy
+# Time Complexity : O(n + m )
+# Space Complexity : O(1)
+
+
+`pythopn []
+
+
+class Solution(object):
+    def arrayStringsAreEqual(self, word1, word2):
+        i=j=0
+        x=y=0
+        while i<len(word1) and j<len(word2):
+            if word1[i][x]!=word2[j][y]:
+                return False
+            x+=1
+            y+=1
+            if x==len(word1[i]):
+                i+=1
+                x=0
+            if y==len(word2[j]):
+                j+=1
+                y=0
+        return i==len(word1) and j==len(word2)
+        
+
+
+Input
+word1 =
+["ab", "c"]
+word2 =
+["a", "bc"]
+Output
+true
